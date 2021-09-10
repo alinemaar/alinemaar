@@ -11,8 +11,7 @@
 
 </p>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alinemaar&layout=compact&theme=jolly)](https://github.com/alinemaar/github-readme-stats)
-heme=joll
+
 	
 </p>
 <p align='center'>
