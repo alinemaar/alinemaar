@@ -6,10 +6,15 @@
   A Full Stack Developer from Manaus , Brazil.
 </p>
 
-<p align='center'>
+<p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alinemaar&show_icons=true&count_private=true&count_private=true&theme=jolly" width="350"></a>
+
 </p>
 
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alinemaar&layout=compact&theme=jolly)](https://github.com/alinemaar/github-readme-stats)
+heme=joll
+	
+</p>
 <p align='center'>
   
  
