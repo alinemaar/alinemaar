@@ -6,8 +6,7 @@
   A Full Stack Developer from Manaus , Brazil.
 </p>
 
-<p align='cent'>er
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alinemaar&show_icons=true&count_private=true&count_private=true&theme=jolly" width="350"></a>
+<p align='center'><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alinemaar&show_icons=true&count_private=true&count_private=true&theme=jolly" width="350"></a>
 
 </p>
 
