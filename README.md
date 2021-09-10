@@ -3,7 +3,7 @@
   Hi there 👋 I'm Aline
 </h1>
 <p align='center'>
-  A Full Stack Developer from Manaus , Brazil
+  A Full Stack Developer from Manaus , Brazil.
 </p>
 
 <p align='center'>
