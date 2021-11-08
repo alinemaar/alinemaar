@@ -72,7 +72,7 @@
 📍 **FUCAPI** - Manaus, Brazil
 		
 - 📖 **Bacharelado Engenharia de Computação**\
-📆 2012 - 2016(Incompleto)\
+📆 2012 - 
 📍 **FUCAPI** - Manaus, Brazil
 
 - 📖 **Estagiário**\
