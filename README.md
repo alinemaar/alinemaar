@@ -87,3 +87,7 @@
 📆 2018 - 2020\
 📍 **YourAPP** - Manaus, Brazil
 
+- 📖 **Programador Pleno**\
+📆 2021 - 
+📍 **Solastec** - Manaus, Brazil
+
