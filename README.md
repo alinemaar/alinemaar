@@ -26,12 +26,12 @@
 </p>
 
 <p align='center'>
-- 🌱 I’m currently learning  React ,Docker and React Native.
+- 🌱 I’m currently learning  Vue.js ,Docker and Node.
 </p>
 
 
 <p align='center'>
-- I worked  a lot with Yii and Yii2 
+- I worked  a lot with PHP and Yii
 </p>
 
 <p align='center'>
