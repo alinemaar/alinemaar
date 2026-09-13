@@ -1,93 +1,112 @@
-
- <h1 align='center'>
-  Hi there 👋 I'm Aline
+<h1 align="center">
+  Hi 👋 I'm Aline Mar
 </h1>
-<p align='center'>
-  A Web Developer from Manaus , Brazil.
+
+<h3 align="center">
+  Fullstack Developer • TypeScript • React • Next.js • NestJS
+</h3>
+
+<p align="center">
+  Software developer from Manaus, Brazil 🇧🇷
 </p>
 
-<p align='center'><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alinemaar&show_icons=true&count_private=true&count_private=true&theme=jolly" width="350"></a>
-
+<p align="center">
+  I build and maintain web applications, working across backend and frontend development, system architecture, APIs, databases and business rules.
 </p>
 
-
-	
-</p>
-<p align='center'>
-  
- 
+<p align="center">
   <a href="https://www.linkedin.com/in/aline-mar-a570a8bb/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/alinemaar">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:aline.maar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<p align='center'>
-- 🌱 I’m currently learning  Vue.js ,Docker and Node.
-</p>
+---
 
+## 👩‍💻 About me
 
-<p align='center'>
-- I worked  a lot with PHP and Yii
-</p>
+* 💻 Fullstack Developer focused on modern web applications
+* ⚙️ Working mainly with **TypeScript, NestJS, Prisma, PostgreSQL, React and Next.js**
+* 🧩 Experience building business rules, APIs, reusable components and internal systems
+* 🗄️ Interested in backend architecture, database modeling and application scalability
+* 🐳 Working with Docker and modern development workflows
+* 🤖 Currently exploring AI-assisted development, automation and developer tooling
+* 🚀 Building personal projects to experiment with Redis, queues, integrations and AI
 
-<p align='center'>
-- 📫 How to reach me: aline.maar@gmail.com
-</p>
+---
 
+## 🛠️ Tech Stack
 
-<h3> :rocket: &nbsp; Skills </h3>
+### Backend
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma\&logoColor=white)
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+### Frontend
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square\&logo=mui\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square\&logo=vuedotjs\&logoColor=4FC08D)
 
-**DevOps**
+### Database & Infrastructure
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 
+### Tools & Libraries
 
-<details>
-  <summary>📃 Resume</summary>
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square\&logo=reactquery\&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square\&logo=reacthookform\&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square\&logo=zod\&logoColor=white)
 
+---
 
-## Education
+## 🚀 What I'm exploring
 
-	
-- 📖 **Técnico em Informática**\
-📆 2011 - 2012\
-📍 **FUCAPI** - Manaus, Brazil
-		
-- 📖 **Bacharelado Engenharia de Computação**\
-📆 2012 - 
-📍 **FUCAPI** - Manaus, Brazil
+I'm currently using personal projects to deepen my knowledge of:
 
-- 📖 **Estagiário**\
-📆 2012 - 2013\
-📍 **Prefeitura de Manaus - FMDS** - Manaus, Brazil
+* Redis and caching
+* Background jobs and queues
+* Third-party integrations
+* Authentication and authorization
+* Database migrations
+* Image and file processing
+* System architecture
+* AI-assisted development
+* AI agents, skills and development automation
 
-- 📖 **Programador JR**\
-📆 2015 - 2018\
-📍 **Grysoft** - Manaus, Brazil
-	
-- 📖 **Programador Pleno**\
-📆 2018 - 2020\
-📍 **YourAPP** - Manaus, Brazil
+---
 
-- 📖 **Programador Pleno**\
-📆 2021 - 
-📍 **Solastec** - Manaus, Brazil
+## 📌 Featured projects
 
+### 🚧 New project coming soon
+
+I'm currently building a new fullstack project focused on real-world architecture and integrations.
+
+The goal is to explore technologies such as:
+
+`NestJS` • `Next.js` • `PostgreSQL` • `Prisma` • `Redis` • `Docker` • `Queues` • `AI`
+
+More soon. 👀
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=alinemaar&show_icons=true&theme=github_dark&hide_border=true"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinemaar&layout=compact&
